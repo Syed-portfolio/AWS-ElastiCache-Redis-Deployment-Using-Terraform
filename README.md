@@ -1,5 +1,6 @@
+![image](https://github.com/user-attachments/assets/b19f5b51-23d6-492c-93c2-d0eb21035753)
+
 ### Project: ElastiCache Redis Deployment Using Terraform
-![image](https://github.com/user-attachments/assets/fd6a2696-cf59-47ed-b1f3-085e61283728)
 
 #### Objective
 Set up and maintain an ElastiCache Redis instance on Amazon Linux using Terraform for infrastructure as code (IaC) automation.
