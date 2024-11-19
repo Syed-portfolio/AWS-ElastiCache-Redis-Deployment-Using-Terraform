@@ -69,6 +69,8 @@ resource "aws_elasticache_cluster" "example" {
 **Verification Steps:**
 - Checked the AWS Management Console under the ElastiCache section to ensure the Redis cluster was created successfully.
 
+![image](https://github.com/user-attachments/assets/89305cdc-30bc-4536-ac2c-78766b937306)
+
 #### Step 5: Connect to the Redis Cluster from Amazon Linux
 **Description:** Connected to the Redis cluster using the Redis CLI from the EC2 instance to ensure connectivity and functionality.
 
